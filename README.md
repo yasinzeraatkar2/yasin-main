@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+    <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>yasin</title>
+                <link href="style-log.css" type="text/css" rel="stylesheet">
+                <link rel="preconnect" href="https://fonts.googleapis.com">
+                <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Boogaloo&family=Dancing+Script:wght@500;600;700&family=Lacquer&family=Rubik+Gemstones&family=Rubik+Spray+Paint&family=Special+Elite&display=swap" rel="stylesheet">
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+            </head>
+
+            <body>
+                <div class="container">
+                    <div class="log">
+                        <p class="text">Login <span class="orang">Delsoius</span> food</p>
+
+                        <label class="label1" for="">Username</label>
+                        <input class="email" type="text" name="user" id="user" placeholder="enter your user or email" > <i class="fa fa-user"></i>
+
+                        <label class="label2" for="">Password</label>
+                        <input class="pass" type="password" name="pass" id="pass" placeholder="enter your password"> <i class="fa fa-key"></i>
+
+                        <button class="btn" type="submit">Login</button>
+
+                        <p class="text-user">I dont have any acount <span class="orang"><a target="_blank" class="link-orang" href="../New folder (3)/sign up.html">create an acount</a></span></p> 
+                    </div>
+                </div>
+            </body>
